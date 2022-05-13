@@ -1,3 +1,5 @@
+## [1.0.2](https://github.com/tksst/eslint-prettier-meta/compare/v1.0.1...v1.0.2) (2022-05-13)
+
 ## [1.0.1](https://github.com/tksst/eslint-prettier-meta/compare/v1.0.0...v1.0.1) (2022-05-10)
 
 # 1.0.0 (2022-05-05)
