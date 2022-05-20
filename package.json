@@ -19,7 +19,7 @@
   "dependencies": {
     "@tksst/eslint-config": "1.2.1",
     "@tksst/prettier-config": "1.0.2",
-    "@typescript-eslint/eslint-plugin": "5.23.0",
+    "@typescript-eslint/eslint-plugin": "5.25.0",
     "@typescript-eslint/parser": "5.23.0",
     "eslint": "8.16.0",
     "eslint-plugin-simple-import-sort": "7.0.0",
