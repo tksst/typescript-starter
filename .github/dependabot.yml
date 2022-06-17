@@ -4,11 +4,6 @@ updates:
     directory: /
     schedule:
       interval: daily
-    commit-message:
-      # As it is not possible to determine whether an update of a dependent is a "feat" or a "fix",
-      # regarded as a "feat".
-      prefix: "feat(deps)"
-      prefix-development: "build"
   - package-ecosystem: github-actions
     directory: /
     schedule:
