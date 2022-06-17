@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/tksst/eslint-prettier-meta/compare/v1.0.14...v1.1.0) (2022-06-17)
+
+
+### Features
+
+* **deps:** bump prettier from 2.6.2 to 2.7.1 ([#24](https://github.com/tksst/eslint-prettier-meta/issues/24)) ([075c566](https://github.com/tksst/eslint-prettier-meta/commit/075c566590f5197446647b681e2ae019baf1ce64))
+
 ## [1.0.14](https://github.com/tksst/eslint-prettier-meta/compare/v1.0.13...v1.0.14) (2022-06-05)
 
 ## [1.0.13](https://github.com/tksst/eslint-prettier-meta/compare/v1.0.12...v1.0.13) (2022-06-05)
