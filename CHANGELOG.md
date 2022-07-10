@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/tksst/eslint-prettier-meta/compare/v1.1.8...v1.2.0) (2022-07-10)
+
+
+### Features
+
+* **deps:** bump @tksst/eslint-config from 1.4.0 to 1.5.0 ([#37](https://github.com/tksst/eslint-prettier-meta/issues/37)) ([1d69b8b](https://github.com/tksst/eslint-prettier-meta/commit/1d69b8b6d9ea467a3c4f15c3768d47404b8e7c9f))
+
 ## [1.1.8](https://github.com/tksst/eslint-prettier-meta/compare/v1.1.7...v1.1.8) (2022-07-10)
 
 ## [1.1.7](https://github.com/tksst/eslint-prettier-meta/compare/v1.1.6...v1.1.7) (2022-07-10)
