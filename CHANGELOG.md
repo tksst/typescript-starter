@@ -1,3 +1,18 @@
+# [2.0.0](https://github.com/tksst/typescript-starter/compare/v1.2.3...v2.0.0) (2022-07-19)
+
+
+### Features
+
+* install the packages for typescript projects ([4ec471d](https://github.com/tksst/typescript-starter/commit/4ec471d1b745780e80687c048c8338265e2767f9))
+* provide jest.config.cjs ([ebfbbfb](https://github.com/tksst/typescript-starter/commit/ebfbbfbf4834f76808db51607dff592ffd8b585e))
+* provide tsconfig.json ([168061e](https://github.com/tksst/typescript-starter/commit/168061e11ea3a4dc7988806ce3199851453af73b))
+* rename the package ([52cc99c](https://github.com/tksst/typescript-starter/commit/52cc99c726b09ee04767ce128701f0552e090671))
+
+
+### BREAKING CHANGES
+
+* Requires installation under a new package name
+
 ## [1.2.3](https://github.com/tksst/eslint-prettier-meta/compare/v1.2.2...v1.2.3) (2022-07-19)
 
 ## [1.2.2](https://github.com/tksst/eslint-prettier-meta/compare/v1.2.1...v1.2.2) (2022-07-19)
