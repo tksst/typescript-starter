@@ -1,11 +1,11 @@
 {
-  "name": "@tksst/eslint-prettier-meta",
+  "name": "@tksst/typescript-starter",
   "version": "1.2.3",
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://github.com/tksst/eslint-prettier-meta",
-  "repository": "github:tksst/eslint-prettier-meta",
+  "homepage": "https://github.com/tksst/typescript-starter",
+  "repository": "github:tksst/typescript-starter",
   "license": "CC0",
   "author": {
     "name": "Takashi Sato",
