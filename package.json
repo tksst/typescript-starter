@@ -12,6 +12,9 @@
     "email": "takashi@tks.st",
     "url": "https://www.tks.st/"
   },
+  "exports": {
+    "jest.config.cjs": "./jest.config.cjs"
+  },
   "scripts": {
     "fix": "npm run test -- --write",
     "test": "prettier --cache -l ."
