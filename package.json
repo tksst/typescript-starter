@@ -13,7 +13,8 @@
     "url": "https://www.tks.st/"
   },
   "exports": {
-    "./jest.config.cjs": "./jest.config.cjs"
+    "./jest.config.cjs": "./jest.config.cjs",
+    "./tsconfig.json": "./tsconfig.json"
   },
   "scripts": {
     "fix": "npm run test -- --write",
