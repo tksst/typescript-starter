@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com/tksst/typescript-starter/compare/v2.0.1...v2.0.2) (2022-07-20)
+
+
+### Bug Fixes
+
+* tsup can not read tsconfig.json (Regression caused by ebfbbfbf4834f76808db51607dff592ffd8b585e) ([c441ce8](https://github.com/tksst/typescript-starter/commit/c441ce89a60180e80e9968faa0774ac3c56de675))
+
 ## [2.0.1](https://github.com/tksst/typescript-starter/compare/v2.0.0...v2.0.1) (2022-07-20)
 
 
