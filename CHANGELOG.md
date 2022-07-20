@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/tksst/typescript-starter/compare/v2.0.0...v2.0.1) (2022-07-20)
+
+
+### Bug Fixes
+
+* Unable to import just.config.cjs ([78ab290](https://github.com/tksst/typescript-starter/commit/78ab290445c116ebf3bde377278cf33a7c5f823b))
+
 # [2.0.0](https://github.com/tksst/typescript-starter/compare/v1.2.3...v2.0.0) (2022-07-19)
 
 
