@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/tksst/typescript-starter/compare/v2.0.2...v2.1.0) (2022-07-23)
+
+
+### Features
+
+* provide a tsup config ([8362074](https://github.com/tksst/typescript-starter/commit/8362074aaa9540274798f1a7180f6d1887691059))
+
 ## [2.0.2](https://github.com/tksst/typescript-starter/compare/v2.0.1...v2.0.2) (2022-07-20)
 
 
