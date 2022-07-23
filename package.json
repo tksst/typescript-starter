@@ -14,6 +14,7 @@
   },
   "exports": {
     "./jest.config.cjs": "./jest.config.cjs",
+    "./tsup-config.mjs": "./tsup-config.mjs",
     "./tsconfig.json": "./tsconfig.json"
   },
   "scripts": {
