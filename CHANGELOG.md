@@ -1,3 +1,5 @@
+## [2.2.1](https://github.com/tksst/typescript-starter/compare/v2.2.0...v2.2.1) (2022-07-31)
+
 # [2.2.0](https://github.com/tksst/typescript-starter/compare/v2.1.3...v2.2.0) (2022-07-30)
 
 
