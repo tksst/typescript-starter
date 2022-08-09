@@ -1,3 +1,10 @@
+## [2.2.2](https://github.com/tksst/typescript-starter/compare/v2.2.1...v2.2.2) (2022-08-09)
+
+
+### Bug Fixes
+
+* **deps:** update npm dependencies ([89a6f24](https://github.com/tksst/typescript-starter/commit/89a6f24787a2b50c3df94bb59b7981ddd03e99e8))
+
 ## [2.2.1](https://github.com/tksst/typescript-starter/compare/v2.2.0...v2.2.1) (2022-07-31)
 
 # [2.2.0](https://github.com/tksst/typescript-starter/compare/v2.1.3...v2.2.0) (2022-07-30)
