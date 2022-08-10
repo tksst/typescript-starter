@@ -1,3 +1,10 @@
+# [2.3.0](https://github.com/tksst/typescript-starter/compare/v2.2.2...v2.3.0) (2022-08-10)
+
+
+### Features
+
+* introduce a script that remove directories ([ead1b5d](https://github.com/tksst/typescript-starter/commit/ead1b5d36c5d0d5fe481ecec14bb442550652f63))
+
 ## [2.2.2](https://github.com/tksst/typescript-starter/compare/v2.2.1...v2.2.2) (2022-08-09)
 
 
