@@ -12,6 +12,9 @@
     "email": "takashi@tks.st",
     "url": "https://www.tks.st/"
   },
+  "bin": {
+    "tss-rmrf": "./scripts/rmrf.mjs"
+  },
   "exports": {
     "./jest.config.cjs": "./jest.config.cjs",
     "./tsup-config.mjs": "./tsup-config.mjs",
