@@ -12,6 +12,9 @@
     "email": "takashi@tks.st",
     "url": "https://www.tks.st/"
   },
+  "bin": {
+    "tss-rmrf": "./scripts/rmrf.mjs"
+  },
   "exports": {
     "./jest.config.cjs": "./jest.config.cjs",
     "./tsup-config.mjs": "./tsup-config.mjs",
@@ -42,5 +45,5 @@
     "@semantic-release/git": "10.0.1",
     "semantic-release": "19.0.3"
   },
-  "packageManager": "npm@8.12.2"
+  "packageManager": "npm@8.17.0"
 }
