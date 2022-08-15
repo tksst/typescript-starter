@@ -1,3 +1,11 @@
+## [2.4.1](https://github.com/tksst/typescript-starter/compare/v2.4.0...v2.4.1) (2022-08-15)
+
+
+### Bug Fixes
+
+* change license from CC0 to Apache ([873fc03](https://github.com/tksst/typescript-starter/commit/873fc03ab132c76533c01c25a71246c205ce5b77))
+* **deps:** update npm dependencies ([812639e](https://github.com/tksst/typescript-starter/commit/812639e0e6817f43bff506bdff26800a2838bd55))
+
 # [2.4.0](https://github.com/tksst/typescript-starter/compare/v2.3.0...v2.4.0) (2022-08-11)
 
 
