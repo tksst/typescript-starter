@@ -1,3 +1,22 @@
+# [2.4.0](https://github.com/tksst/typescript-starter/compare/v2.3.0...v2.4.0) (2022-08-11)
+
+
+### Bug Fixes
+
+* unable to execute rmrf.mjs directly ([03de9a5](https://github.com/tksst/typescript-starter/commit/03de9a5b9260ca9594fe62058f3167a8a7ca9ef9))
+
+
+### Features
+
+* export rmrf.mjs to bin ([efb2440](https://github.com/tksst/typescript-starter/commit/efb24408149fcb4aa832e9ccc168a54b787cd7df))
+
+# [2.3.0](https://github.com/tksst/typescript-starter/compare/v2.2.2...v2.3.0) (2022-08-10)
+
+
+### Features
+
+* introduce a script that remove directories ([ead1b5d](https://github.com/tksst/typescript-starter/commit/ead1b5d36c5d0d5fe481ecec14bb442550652f63))
+
 ## [2.2.2](https://github.com/tksst/typescript-starter/compare/v2.2.1...v2.2.2) (2022-08-09)
 
 
