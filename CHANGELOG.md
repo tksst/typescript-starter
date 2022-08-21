@@ -1,3 +1,11 @@
+## [2.4.2](https://github.com/tksst/typescript-starter/compare/v2.4.1...v2.4.2) (2022-08-21)
+
+
+### Bug Fixes
+
+* **deps:** update npm dependencies ([b11aba8](https://github.com/tksst/typescript-starter/commit/b11aba8f0456d147402121ca47fd7c0f81f1adf7))
+* now set the platform to node for the bin build. ([7a79850](https://github.com/tksst/typescript-starter/commit/7a7985054ca27a36b3aa3a40f0989b574c8e4079))
+
 ## [2.4.1](https://github.com/tksst/typescript-starter/compare/v2.4.0...v2.4.1) (2022-08-15)
 
 
