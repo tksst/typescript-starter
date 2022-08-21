@@ -16,9 +16,9 @@
     "tss-rmrf": "./scripts/rmrf.mjs"
   },
   "exports": {
-    "./jest.config.cjs": "./configs/jest.config.cjs",
-    "./tsup-config.mjs": "./configs/tsup-config.mjs",
-    "./tsconfig.json": "./configs/tsconfig.json"
+    "./jest.config.cjs": "./jest.config.cjs",
+    "./tsup-config.mjs": "./tsup-config.mjs",
+    "./tsconfig.json": "./tsconfig.json"
   },
   "scripts": {
     "fix": "npm run test -- --write",
