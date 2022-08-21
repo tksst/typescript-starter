@@ -1,22 +1,23 @@
-/** @type {import("tsup").Options} */
-export const libOptions = {
+const common = {
     sourcemap: true,
     minifyWhitespace: true,
     minifySyntax: true,
     target: "node14",
+    splitting: false,
+};
+
+/** @type {import("tsup").Options} */
+export const libOptions = {
+    ...common,
     dts: true,
     format: ["esm", "cjs"],
-    splitting: false,
     outDir: "dist/lib/",
 };
 
 /** @type {import("tsup").Options} */
 export const binOptions = {
-    sourcemap: true,
-    minifyWhitespace: true,
-    minifySyntax: true,
-    target: "node14",
+    ...common,
+    platform: "node",
     format: ["esm"],
-    splitting: false,
     outDir: "dist/bin/",
 };

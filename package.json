@@ -16,22 +16,22 @@
     "tss-rmrf": "./scripts/rmrf.mjs"
   },
   "exports": {
-    "./jest.config.cjs": "./jest.config.cjs",
-    "./tsup-config.mjs": "./tsup-config.mjs",
-    "./tsconfig.json": "./tsconfig.json"
+    "./jest.config.cjs": "./configs/jest.config.cjs",
+    "./tsup-config.mjs": "./configs/tsup-config.mjs",
+    "./tsconfig.json": "./configs/tsconfig.json"
   },
   "scripts": {
     "fix": "npm run test -- --write",
     "test": "prettier --cache -l ."
   },
   "dependencies": {
-    "@swc/core": "1.2.233",
+    "@swc/core": "1.2.241",
     "@swc/jest": "0.2.22",
     "@tksst/eslint-config": "2.3.1",
     "@tksst/prettier-config": "1.1.0",
-    "@types/jest": "28.1.6",
-    "@typescript-eslint/eslint-plugin": "5.33.0",
-    "@typescript-eslint/parser": "5.33.0",
+    "@types/jest": "28.1.7",
+    "@typescript-eslint/eslint-plugin": "5.33.1",
+    "@typescript-eslint/parser": "5.33.1",
     "better-typescript-lib": "2.1.0",
     "eslint": "8.22.0",
     "eslint-plugin-simple-import-sort": "7.0.0",
