@@ -17,6 +17,7 @@ export const libOptions = {
 /** @type {import("tsup").Options} */
 export const binOptions = {
     ...common,
+    platform: "node",
     format: ["esm"],
     outDir: "dist/bin/",
 };
