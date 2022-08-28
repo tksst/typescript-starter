@@ -1,3 +1,11 @@
+## [2.4.3](https://github.com/tksst/typescript-starter/compare/v2.4.2...v2.4.3) (2022-08-28)
+
+
+### Bug Fixes
+
+* **deps:** update dependency jest to v29 ([a3a9c01](https://github.com/tksst/typescript-starter/commit/a3a9c0164255ed1924470404339889d928b58aaf))
+* **deps:** update npm dependencies ([34f8212](https://github.com/tksst/typescript-starter/commit/34f8212f25e7b731415ac36e1506fc16e36acf59))
+
 ## [2.4.2](https://github.com/tksst/typescript-starter/compare/v2.4.1...v2.4.2) (2022-08-21)
 
 
