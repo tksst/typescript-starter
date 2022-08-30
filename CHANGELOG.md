@@ -1,3 +1,11 @@
+## [2.4.5](https://github.com/tksst/typescript-starter/compare/v2.4.4...v2.4.5) (2022-08-30)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @swc/core to v1.2.245 ([9950112](https://github.com/tksst/typescript-starter/commit/9950112fd28beff9ebcd39a9902cfa572ffa0f32))
+* **deps:** update dependency @tksst/eslint-config to v3 ([1523960](https://github.com/tksst/typescript-starter/commit/1523960109f3446937668bb72f5f8783177e62b7))
+
 ## [2.4.4](https://github.com/tksst/typescript-starter/compare/v2.4.3...v2.4.4) (2022-08-30)
 
 
