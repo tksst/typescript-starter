@@ -1,3 +1,11 @@
+## [2.4.4](https://github.com/tksst/typescript-starter/compare/v2.4.3...v2.4.4) (2022-08-30)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @types/jest to v29 ([c9cf349](https://github.com/tksst/typescript-starter/commit/c9cf349840f1fb2bb5c34f891ddaf627bbebb610))
+* **deps:** update npm dependencies to v5.36.0 ([8faa426](https://github.com/tksst/typescript-starter/commit/8faa426c538a25d5bdbf41235fc9cccf7fb02394))
+
 ## [2.4.3](https://github.com/tksst/typescript-starter/compare/v2.4.2...v2.4.3) (2022-08-28)
 
 
