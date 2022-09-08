@@ -1,3 +1,18 @@
+# [3.0.0](https://github.com/tksst/typescript-starter/compare/v2.4.5...v3.0.0) (2022-09-08)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-simple-import-sort to v8 ([#89](https://github.com/tksst/typescript-starter/issues/89)) ([dc60e61](https://github.com/tksst/typescript-starter/commit/dc60e61fc451e433b380f2b79c38fa996d827b6b))
+* **deps:** update npm dependencies ([6becafa](https://github.com/tksst/typescript-starter/commit/6becafab447ac1ee82ed103984a424658d7f06fe))
+
+
+### BREAKING CHANGES
+
+* **deps:** Due to a major version upgrade of eslint-plugin-simple-import-sort, the sort order of imports by ESLint may change in this version.
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+
 ## [2.4.5](https://github.com/tksst/typescript-starter/compare/v2.4.4...v2.4.5) (2022-08-30)
 
 
